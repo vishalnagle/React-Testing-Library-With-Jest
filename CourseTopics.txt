@@ -1,0 +1,7 @@
+
+
+Video url: https://www.youtube.com/watch?v=xntMzZ5S1N0&list=PL8p2I9GklV47ZpFC9sNHTXwJRgwwzdkNG
+
+TOPICS:
+
+1.React testing library and jest
