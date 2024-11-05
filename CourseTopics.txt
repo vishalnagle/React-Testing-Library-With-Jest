@@ -14,3 +14,19 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 #4 Understand React Test Structure
 
 #5 Write First React test case
+
+#6 Test Input box
+
+#7 Test Case Run Options
+
+    How to run specific test files
+    What is watch mode
+    How to run failed test cases
+    How to run all test cases
+    How to quit watch mode
+    How to filter test files for run
+    How to filter test case
+
+#8 Test group with describe function
+
+#9 Test on change event | event fire
