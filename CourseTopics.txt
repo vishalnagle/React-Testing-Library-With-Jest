@@ -8,3 +8,9 @@ What is testing
 Testing by developers - Unit testing, Integrated testing and E-2-E testing
 
 #2 Run First Test Case
+
+#3 Write Basic Test Case
+
+#4 Understand React Test Structure
+
+#5 Write First React test case
