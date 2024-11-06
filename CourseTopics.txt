@@ -35,4 +35,18 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 
 #11 File and Folder naming convention
 
+#12 beforeEach | beforeAll | afterAll | afterEach hooks
+
+#13 Snapshot Testing | update Snapshots
+
+#14 Important points | What we should test?
+
+#15 Class Component method testing
+
+    Installed react-test-renderer package
+
+#16 Functional Component method testing
+
+
+
 
