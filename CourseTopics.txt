@@ -47,6 +47,14 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 
 #16 Functional Component method testing
 
+#17 RTL Query
+
+#18 getByRole Query
+
+#19 Multiple elements and Custom Role
+
+#20 getAllByRole
+
 
 
 
