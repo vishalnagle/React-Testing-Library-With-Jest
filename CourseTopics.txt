@@ -61,6 +61,32 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 
 #23 getByPlaceholderText and getAllByPlaceholderText
 
+#24 getByText and getAllByText
+
+#25 getByTestId and getAllByTestId
+
+#26 Overriding data-testid
+
+#27 agetByDisplayValue and getAllByDisplayValue
+
+#28 getByTitle and getAllByTitle
+
+#29 getByAltText and getAllByAltText (img tag alt attribute test)
+
+#30 Priority Order for RTL Queries
+
+#31 Assertion Methods
+
+#32 TextMatch with String and Regex
+
+#33 TextMatch with Function
+
+#34 QueryBy and QueryAllBy | Test hidden elements
+
+#35 findBy and findAllBy | test async elements
+
+
+
 
 
 
