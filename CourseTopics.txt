@@ -55,6 +55,12 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 
 #20 getAllByRole
 
+#21 getByLabelText | checkbox testing with get by label text
+
+#22 getAllByLabelText with multiple elements
+
+#23 getByPlaceholderText and getAllByPlaceholderText
+
 
 
 
