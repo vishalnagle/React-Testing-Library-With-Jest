@@ -85,6 +85,17 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 
 #35 findBy and findAllBy | test async elements
 
+#36 Test Elements with JavaScript Query | Custom Query
+
+#37 Querying Within Elements
+
+#38 Click Event with User Event Library
+
+#39 onChange Event Testing | Keyboard Interactions
+
+#40 act function
+
+
 
 
 
