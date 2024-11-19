@@ -95,6 +95,20 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 
 #40 act function
 
+#41 Test component Props
+
+#42 Functional Props Testing and Function Mocking
+
+#43 Debugging in React testing library
+    container
+    prettyDOM(container)
+    debug()
+
+#44 Testing playground chrome extension
+
+#45 What is MSW | Mock Service worker
+
+
 
 
 
