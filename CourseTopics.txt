@@ -111,6 +111,11 @@ Testing by developers - Unit testing, Integrated testing and E-2-E testing
 #46 API Call for Testing With MSW Added
 
 
+----------------------------------------------------------------------------
+
+TypeScript/React Testing: Components, Hooks, Custom Hooks, Redux and Zustand
+
+Video url : https://www.youtube.com/watch?v=bvdHVxqjv80&t=27s
 
 
 
